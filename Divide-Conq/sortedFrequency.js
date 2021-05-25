@@ -13,5 +13,3 @@ function findFirst(arr, num, low = 0, high = arr.length - 1) {
   }
   return -1;
 }
-
-findFirst([1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 5, 5], 3);
